@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ADivB {
     public static void main(String[] args) {
+        // 백준 1008번 문제
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();

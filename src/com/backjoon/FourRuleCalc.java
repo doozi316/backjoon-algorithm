@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class FourRuleCalc {
     public static void main(String[] args) {
+        // 백준 10869번 문제
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();

@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Score {
     public static void main(String[] args) {
+        // 백준 9498 번 문제
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
 
